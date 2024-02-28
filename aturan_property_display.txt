@@ -1,0 +1,6 @@
+Aturan dalam mengunakan property display dalam css 
+ -> Inline
+    *) Tidak Mmenambahkan baris baru
+    *) lebar dan tinggi element sebesar content
+    *) Kita tidak dapat mengatur tinggi dan lebar 
+    *) Margin dan padding hanya mempengaruhi element secara horizontal
