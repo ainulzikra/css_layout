@@ -1,0 +1,15 @@
+Dimensi dalam element css memiliki width dan height aturan content element di dalam elemet parentnya pada 
+property overflow
+-> visibel 
+adalah nilai default tampil secara default pada elemet
+property overflow
+
+-> auto 
+adalah jika nilai dari content lebih dari parentnya maka di buatkan scroll jika ukuran content sama dengan ukuran parentnya
+maka scrol tidak muncul
+
+-> hidden 
+adalah Menghilangkan element 
+
+-> scrool 
+adalah sama dengan auto tapi bedanya jika elementnya pas ukuran parent scrol tetap tampil 
