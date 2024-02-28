@@ -4,3 +4,9 @@ Aturan dalam mengunakan property display dalam css
     *) lebar dan tinggi element sebesar content
     *) Kita tidak dapat mengatur tinggi dan lebar 
     *) Margin dan padding hanya mempengaruhi element secara horizontal
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+ -> Block
+    *) Mmenambahkan baris baru
+    *) Jika tidak diatur lebarnya,maka lebar default elemet block akan memenuhi lebar dari browser/parentnya
+    *) Kita  dapat mengatur tinggi dan lebar element block
+    *) Didalam elemet block kita dapat menyimpan tag dengan element inline ,inline-block dan block
