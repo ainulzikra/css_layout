@@ -1,0 +1,6 @@
+Boxmodel setiap element didalam web adalah sebuah kotak
+
+-) Setiap element dalam sebuah halaman merupakan sebuah kotak
+-) Kita bisa mengatur ukuran dari kotak tersebut
+-) Kita bisa memberi gambar atau warna sebagai beckground kotak tersebut tersebut.
+-) karena bentuk element terdiri dalam bentuk kotak kita dapat mengatur sesuai yang kita inginkan,
