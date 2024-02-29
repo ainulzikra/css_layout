@@ -1,0 +1,13 @@
+Pengunaan padding pada elemment mempengaruhi ukuran bertambah
+
+Aturan pengunaan properti hampir sama dengan margin tapi padding sisi dlam dari content tapi
+-> padding tidak memiliki nilai Negative
+-> padding tidak memiliki nilai auto
+
+Aturan Ppengunaan border juga merubah ukuran elemet
+-> border:width,style,warna;
+-> border-left:width,style,warna;
+-> border-right:width,style,warna;
+
+Mengatur ukuran tanpa di pengaruhi pading dan border properti box-sizing
+-> box-sizing:border-box;
