@@ -1,0 +1,4 @@
+Mengunakan css reset 
+Aturan reset css momodif nilai default css
+<- mengunakan *{} apapun elemet di dalam html tapi kurang efektif
+<- mengunakan web https://meyerweb.com/eric/tools/css/reset/
