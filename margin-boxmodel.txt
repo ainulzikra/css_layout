@@ -1,0 +1,10 @@
+Pengunaan margin box-model
+
+Aturan pembuatan properti margin
+-> margin-left,margin-right,margin-top,margin-bottom
+-> Overloping margin (antar elemet saling dorong)
+   margin overlooping tidak berlaku vertikal jika kebawah 140 dan kebawah 100 maka diambil cuma 140
+   margin overlooping berlaku hanya vertikal 100 kanan 100 kiri jadi jaraknya 200
+-> Negative Margin (hanya berlaku pada margin padding tidak berlaku)
+-> margin auto memposisi kan margin-left dan margin-right ditengah
+-> shorthand membuat margin sekaligus margin(atas,kanan,bawah,kiri)
