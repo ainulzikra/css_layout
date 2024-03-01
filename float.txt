@@ -1,0 +1,8 @@
+Pengunaan Float pada css
+-> Merupakan properti pada css untuk mengatur posisi sebuah elemment .sebuah element dapat
+dipaksa untuk berada disebelah kiri atau kanan psrentnya.
+
+Pengunaan float :
+-> Membuat Galery
+-> Membuat text wraping
+-> Membuat Colomn pada halaman 
