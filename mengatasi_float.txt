@@ -1,0 +1,5 @@
+Float yaitu membuat element  keluar jalur dari aturanya
+menngatasinya dengan :
+<- memberi clering float yaitu menambahakan div .clear ditempat yang mau kita akhiri float dan tergantung posisi floatnya
+<- pemberian  display: flow-root pada pembungkusnya
+<- atau mengunakan micro clear fix pada bagian waraper
